@@ -9,6 +9,6 @@ public static void main(String[] args){
 	IShape2D rect = ShapeFactory.INSTANCE.createRecrangle(3.5d,2.3d);
 	System.out.println(rect);
 
-	//Test COmmit du main
+// Je sais coder je suis trop fort
 }
 }
